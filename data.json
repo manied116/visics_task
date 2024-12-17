@@ -1,0 +1,46 @@
+{
+  "jobApplication": [
+    {
+      "id": "1",
+      "title": "Frontend Developer",
+      "company": "Tech Corp",
+      "dateApplied": "2024-09-10",
+      "status": "applied"
+    },
+    {
+      "id": "2",
+      "title": "Backend Developer",
+      "company": "Dev Solutions",
+      "dateApplied": "2024-09-12",
+      "status": "interviewing"
+    },
+    {
+      "id": "3",
+      "title": "UI/UX Designer",
+      "company": "Design Work",
+      "dateApplied": "2024-09-15",
+      "status": "rejected"
+    },
+    {
+      "id": "b74e",
+      "title": "Test11",
+      "company": "test1",
+      "dateApplied": "2024-12-18",
+      "status": "interviewing"
+    },
+    {
+      "id": "5d4c",
+      "title": "Associate Software Engineer",
+      "company": "cafs infotech",
+      "dateApplied": "2020-12-01",
+      "status": "applied"
+    },
+    {
+      "id": "a559",
+      "title": "atessdfsdf",
+      "company": "sfda",
+      "dateApplied": "2024-12-18",
+      "status": "rejected"
+    }
+  ]
+}
